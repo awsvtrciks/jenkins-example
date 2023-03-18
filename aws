@@ -3,6 +3,7 @@ devops
 terraform
 ansible
 jenkins
+<<<<<<< HEAD
 azure
 docker
 kubernetes
